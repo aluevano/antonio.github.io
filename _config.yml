@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Antonio Luevano"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars3.githubusercontent.com/u/6841703?s=460&v=4"
   bio              : "I am an amazing person."
   location         : "Dallas, TX USA"
   email            : "antonio@genvio.net"
